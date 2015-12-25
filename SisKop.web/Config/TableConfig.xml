@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TableConfig>
+  <Tables>
+    <TableName>tblBusinessUnit</TableName>
+    <PrefixId>BU</PrefixId>
+  </Tables>
+  <Tables>
+    <TableName>tblCostCenter</TableName>
+    <PrefixId>CC</PrefixId>
+  </Tables>
+  <Tables>
+    <TableName>tblDepartment</TableName>
+    <PrefixId>DEPT</PrefixId>
+  </Tables>
+  <Tables>
+    <TableName>tblUserMaster</TableName>
+    <PrefixId>UM</PrefixId>
+  </Tables>
+  <Tables>
+    <TableName>tblStatus</TableName>
+    <PrefixId>ST</PrefixId>
+  </Tables>
+  <Tables>
+    <TableName>tblUserType</TableName>
+    <PrefixId>UT</PrefixId>
+  </Tables>
+  <Tables>
+    <TableName>tblAuditTrail</TableName>
+    <PrefixId>LOG</PrefixId>
+  </Tables>
+  <Tables>
+    <TableName>tblCompanyGroup</TableName>
+    <PrefixId>CG</PrefixId>
+  </Tables>
+  <Tables>
+    <TableName>tblCompany</TableName>
+    <PrefixId>COMP</PrefixId>
+  </Tables>
+  <Tables>
+    <TableName>tblPersonnelArea</TableName>
+    <PrefixId>PA</PrefixId>
+  </Tables>
+</TableConfig>

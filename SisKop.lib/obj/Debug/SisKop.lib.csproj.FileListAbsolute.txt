@@ -1,0 +1,10 @@
+G:\My oprekan\MyProject\SisKop\SisKop.lib\bin\Debug\SisKop.lib.dll.config
+G:\My oprekan\MyProject\SisKop\SisKop.lib\bin\Debug\SisKop.lib.dll
+G:\My oprekan\MyProject\SisKop\SisKop.lib\bin\Debug\SisKop.lib.pdb
+G:\My oprekan\MyProject\SisKop\SisKop.lib\bin\Debug\EntityFramework.dll
+G:\My oprekan\MyProject\SisKop\SisKop.lib\bin\Debug\EntityFramework.SqlServer.dll
+G:\My oprekan\MyProject\SisKop\SisKop.lib\bin\Debug\EntityFramework.xml
+G:\My oprekan\MyProject\SisKop\SisKop.lib\bin\Debug\EntityFramework.SqlServer.xml
+G:\My oprekan\MyProject\SisKop\SisKop.lib\obj\Debug\SisKop.lib.csprojResolveAssemblyReference.cache
+G:\My oprekan\MyProject\SisKop\SisKop.lib\obj\Debug\SisKop.lib.dll
+G:\My oprekan\MyProject\SisKop\SisKop.lib\obj\Debug\SisKop.lib.pdb
